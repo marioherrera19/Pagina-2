@@ -1,4 +1,4 @@
-/* 
+/*
 
 Flex Template 
 
@@ -282,7 +282,7 @@ hr {
 }
 
 .logo-wrapper {
-  background: url(../images/logo.png) no-repeat;
+  background: url(../images/serimax.png) no-repeat;
   height: 100px;
   background-position: 15px;
 }
@@ -292,7 +292,7 @@ hr {
   padding-left: 130px;
   line-height: 100px;
   text-transform: uppercase;
-  color: #ec523f;
+  color: #4049EE;
   font-size: 32px;
   font-weight: 700;
 }
@@ -312,8 +312,8 @@ hr {
   padding-top: 37px;
 }
 .main-menu ul li.active a {
-  border-top: 3px solid #ec523f;
-  color: #ec523f;
+  border-top: 3px solid #4049EE;
+  color: #4049EE;
 }
 
 .toggle-menu {
